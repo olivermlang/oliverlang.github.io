@@ -1,7 +1,8 @@
 main:
-  - title: "<b>Publications</b>"
-    url: /#pubs
-  - title: "<b>Teaching</b>"
-    url: /#teaching
-  - title: "<b>C.V.</b>"
-    url: /cv/kuriwaki_cv.pdf
+#
+#  - title: "<b>Publications</b>"
+#    url: /#pubs
+#  - title: "<b>Teaching</b>"
+#    url: /#teaching
+#  - title: "<b>C.V.</b>"
+#    url: /cv/lang_cv.pdf
